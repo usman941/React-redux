@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    align-items: 'center';
+    justify-content: space-between;
+    background-color: cadetblue;
+    height: 40px;
+    color: white;
+    text-align: center;
+}
+.NavLink{
+    padding:20px ;
+    text-decoration: none;
+   
+}
+.logo{
+    font-weight: bold;
+}
+.cartCount{
+    font-weight: bold;
+    font-size: large;
+}
